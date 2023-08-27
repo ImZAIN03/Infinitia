@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Khan House",
+    "price": "5,150,000",
+    "detail": "University Town Peshawar",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Bacha House",
+    "price": "3,150,000",
+    "detail": "Saddar Bazar, Peshawar",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Malak House",
+    "price": "2,440,000",
+    "detail": "Ring Road, Peshawar",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Kaka House",
+    "price": "6,050,000",
+    "detail": "Board Bazar, Peshawar",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Saib G House",
+    "price": "9,000,000",
+    "detail": "Karkhano Market, Peshawar",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Lala House",
+    "price": "7,510,000",
+    "detail": "Regi, Peshawar",
+    "image": "./r3.png"
+  }
+]
